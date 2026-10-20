@@ -121,5 +121,12 @@ temp/
 # Saved login sessions (live cookies)
 .auth/
 
+# QA skill output (local only)
+docs/testcases/
+docs/context/
+docs/failure-reports/
+docs/bugs_evidence/
+docs/app/
+
 # Visual test baselines are committed
 !tests/visual/__screenshots__/**/*.png
